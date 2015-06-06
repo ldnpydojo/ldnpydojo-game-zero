@@ -14,4 +14,4 @@ Team 4 / Team Naomi: [Pong clone](https://github.com/geokala/pongclonefromdojo)
 
 Team 5: [holdenwebs](https://github.com/holdenweb/holdenwebs)
 
-![image](https://cloud.githubusercontent.com/assets/167319/8021430/959c41b6-0c97-11e5-9597-d7e5612b39b3.png)
+![image](https://cloud.githubusercontent.com/assets/167319/8021436/d971a5e8-0c97-11e5-8678-4e66afb1cd25.png)
